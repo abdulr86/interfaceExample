@@ -1,5 +1,6 @@
 ﻿class Academy
 {
+    //hi
     int collection1   = 800000;
     int collection12 =  400000;
     static void Main(string[] args)
